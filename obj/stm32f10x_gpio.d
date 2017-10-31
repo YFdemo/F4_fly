@@ -1,0 +1,13 @@
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_gpio.c
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_gpio.h
+..\obj\stm32f10x_gpio.o: ..\start\stm32f10x.h
+..\obj\stm32f10x_gpio.o: ..\start\core_cm3.h
+..\obj\stm32f10x_gpio.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\stm32f10x_gpio.o: ..\start\system_stm32f10x.h
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_conf.h
+..\obj\stm32f10x_gpio.o: ..\lib\misc.h
+..\obj\stm32f10x_gpio.o: ..\start\stm32f10x.h
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_gpio.h
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_rcc.h
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_tim.h
+..\obj\stm32f10x_gpio.o: ..\lib\stm32f10x_usart.h

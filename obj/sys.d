@@ -1,0 +1,13 @@
+..\obj\sys.o: ..\system\sys.c
+..\obj\sys.o: ..\system\sys.h
+..\obj\sys.o: ..\start\stm32f10x.h
+..\obj\sys.o: ..\start\core_cm3.h
+..\obj\sys.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\sys.o: ..\start\system_stm32f10x.h
+..\obj\sys.o: ..\lib\stm32f10x_conf.h
+..\obj\sys.o: ..\lib\misc.h
+..\obj\sys.o: ..\start\stm32f10x.h
+..\obj\sys.o: ..\lib\stm32f10x_gpio.h
+..\obj\sys.o: ..\lib\stm32f10x_rcc.h
+..\obj\sys.o: ..\lib\stm32f10x_tim.h
+..\obj\sys.o: ..\lib\stm32f10x_usart.h

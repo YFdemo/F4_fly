@@ -1,0 +1,13 @@
+..\obj\iic.o: ..\interface\IIC.c
+..\obj\iic.o: ..\interface\IIC.h
+..\obj\iic.o: ..\start\stm32f10x.h
+..\obj\iic.o: ..\start\core_cm3.h
+..\obj\iic.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\iic.o: ..\start\system_stm32f10x.h
+..\obj\iic.o: ..\lib\stm32f10x_conf.h
+..\obj\iic.o: ..\lib\misc.h
+..\obj\iic.o: ..\start\stm32f10x.h
+..\obj\iic.o: ..\lib\stm32f10x_gpio.h
+..\obj\iic.o: ..\lib\stm32f10x_rcc.h
+..\obj\iic.o: ..\lib\stm32f10x_tim.h
+..\obj\iic.o: ..\lib\stm32f10x_usart.h

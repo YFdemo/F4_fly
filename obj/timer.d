@@ -1,0 +1,14 @@
+..\obj\timer.o: ..\hardware\timer.c
+..\obj\timer.o: ..\hardware\timer.h
+..\obj\timer.o: ..\system\sys.h
+..\obj\timer.o: ..\start\stm32f10x.h
+..\obj\timer.o: ..\start\core_cm3.h
+..\obj\timer.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\timer.o: ..\start\system_stm32f10x.h
+..\obj\timer.o: ..\lib\stm32f10x_conf.h
+..\obj\timer.o: ..\lib\misc.h
+..\obj\timer.o: ..\start\stm32f10x.h
+..\obj\timer.o: ..\lib\stm32f10x_gpio.h
+..\obj\timer.o: ..\lib\stm32f10x_rcc.h
+..\obj\timer.o: ..\lib\stm32f10x_tim.h
+..\obj\timer.o: ..\lib\stm32f10x_usart.h

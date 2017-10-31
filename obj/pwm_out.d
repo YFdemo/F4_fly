@@ -1,0 +1,13 @@
+..\obj\pwm_out.o: ..\system\pwm_out.c
+..\obj\pwm_out.o: ..\system\pwm_out.h
+..\obj\pwm_out.o: ..\start\stm32f10x.h
+..\obj\pwm_out.o: ..\start\core_cm3.h
+..\obj\pwm_out.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\pwm_out.o: ..\start\system_stm32f10x.h
+..\obj\pwm_out.o: ..\lib\stm32f10x_conf.h
+..\obj\pwm_out.o: ..\lib\misc.h
+..\obj\pwm_out.o: ..\start\stm32f10x.h
+..\obj\pwm_out.o: ..\lib\stm32f10x_gpio.h
+..\obj\pwm_out.o: ..\lib\stm32f10x_rcc.h
+..\obj\pwm_out.o: ..\lib\stm32f10x_tim.h
+..\obj\pwm_out.o: ..\lib\stm32f10x_usart.h

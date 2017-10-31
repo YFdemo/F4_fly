@@ -1,0 +1,17 @@
+..\obj\control.o: ..\system\control.c
+..\obj\control.o: ..\system\control.h
+..\obj\control.o: ..\start\stm32f10x.h
+..\obj\control.o: ..\start\core_cm3.h
+..\obj\control.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\control.o: ..\start\system_stm32f10x.h
+..\obj\control.o: ..\lib\stm32f10x_conf.h
+..\obj\control.o: ..\lib\misc.h
+..\obj\control.o: ..\start\stm32f10x.h
+..\obj\control.o: ..\lib\stm32f10x_gpio.h
+..\obj\control.o: ..\lib\stm32f10x_rcc.h
+..\obj\control.o: ..\lib\stm32f10x_tim.h
+..\obj\control.o: ..\lib\stm32f10x_usart.h
+..\obj\control.o: ..\interface\imu.h
+..\obj\control.o: D:\keil4\ARM\RV31\INC\math.h
+..\obj\control.o: ..\system\delay.h
+..\obj\control.o: ..\system\sys.h

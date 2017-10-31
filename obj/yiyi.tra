@@ -1,0 +1,37 @@
+*** Creating Trace Output File '..\obj\yiyi.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\core_cm3.o"'
+### List of Objects: adding '"..\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\obj\misc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_tim.o"'
+### List of Objects: adding '"..\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\control.o"'
+### List of Objects: adding '"..\obj\pwm_out.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### List of Objects: adding '"..\obj\iic.o"'
+### List of Objects: adding '"..\obj\imu.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\mpu6050.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\main.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\system_stm32f10x.o" "..\obj\stm32f10x_it.o" "..\obj\misc.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_tim.o" "..\obj\stm32f10x_usart.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\control.o" "..\obj\pwm_out.o" "..\obj\usart.o" "..\obj\iic.o" "..\obj\imu.o" "..\obj\timer.o" "..\obj\mpu6050.o" --strict --scatter "..\obj\yiyi.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\yiyi.map" -o "..\obj\yiyi.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\obj\yiyi.axf'
+### ADS-LD Command File: '..\obj\yiyi.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\obj\yiyi.lnp', Handle=0x00000BC0
+### Writing '.lnp' file
+### ADS-LD Command file '..\obj\yiyi.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

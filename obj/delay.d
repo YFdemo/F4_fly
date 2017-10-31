@@ -1,0 +1,14 @@
+..\obj\delay.o: ..\system\delay.c
+..\obj\delay.o: ..\system\delay.h
+..\obj\delay.o: ..\system\sys.h
+..\obj\delay.o: ..\start\stm32f10x.h
+..\obj\delay.o: ..\start\core_cm3.h
+..\obj\delay.o: D:\keil4\ARM\RV31\INC\stdint.h
+..\obj\delay.o: ..\start\system_stm32f10x.h
+..\obj\delay.o: ..\lib\stm32f10x_conf.h
+..\obj\delay.o: ..\lib\misc.h
+..\obj\delay.o: ..\start\stm32f10x.h
+..\obj\delay.o: ..\lib\stm32f10x_gpio.h
+..\obj\delay.o: ..\lib\stm32f10x_rcc.h
+..\obj\delay.o: ..\lib\stm32f10x_tim.h
+..\obj\delay.o: ..\lib\stm32f10x_usart.h

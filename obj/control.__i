@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\lib -I..\start -I..\user -I..\system -I..\interface -I..\hardware -I "D:\keil4\ARM\INC" -I "D:\keil4\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\obj\control.o" --omf_browse "..\obj\control.crf" --depend "..\obj\control.d" "..\system\control.c"
